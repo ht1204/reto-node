@@ -5,7 +5,7 @@
 - Para instalar dependencias: ```npm install ``` o  ```npm i ```
 - Luego, arrancar la aplicación: ```npm run start ```
 - Visualizar código secreto.
-- Se termina de ejecutar una vez logra el objetivo
+- Para apagar servidor, presionar la combinación de teclas ```Ctrl + C``` o en ```Command + C``` en Mac
 
 ## Bases de datos
 - Redis
